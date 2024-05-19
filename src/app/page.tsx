@@ -1,7 +1,7 @@
 export default function Home() {
   return (
-    <main className="container">
-      <h1 className="text-3xl">Form Demo</h1>
-    </main>
+    <>
+      <h1 className="text-3xl font-bold my-4">Form Demo</h1>
+    </>
   );
 }
